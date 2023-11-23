@@ -5,4 +5,4 @@
 
 <p>Um chatbot para a Pizzaria que Delícia, onde o funcionamento da pizzaria é de 17h às 3h da manhã. Os clientes podem fazer pedidos de pizzas disponíveis. O chatbot interagirá com os clientes, perguntando o sabor da pizza desejada e confirmará o preço, caso a pizza escolhida esteja no menu. O chatbot também será capaz de lidar com pedidos de múltiplas pizzas, calcular o valor total do pedido e fornecer uma lista final de pizzas pedidas e o valor total.</p>
 
-<h2>Esse projeto foi realizado em conjunto com alguns colegas de classe</h2>
+<h2>Esse projeto foi realizado em conjunto com outros colegas de classe</h2>
