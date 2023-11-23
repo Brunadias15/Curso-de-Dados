@@ -26,3 +26,11 @@ Boas vindas ao nosso sistema:
 <p>Além disso, é possível observar na base, campos contendo a data, a URL, o conteúdo, os nomes de usuários, e o assunto de cada tweet coletado.</p>
 
 <p>Você pode baixar a base de dados <a href="https://drive.google.com/file/d/103GvlCjiVVBl03_sjPvUCCrR7Zb3uXwN/view?usp=sharing">AQUI</a></p>
+
+<h3>Salvar resultado da busca</h3> 
+
+<div align="justify">
+<p>Permita que o usuário salve em arquivo cada busca que ele fizer, independente da forma: data, termo ou assunto.</p>
+
+<p>O arquivo é salvo em formato JSON (extensão .json) em que contm a <b>data</b>, <b>conteúdo</b> e <b>assunto</b> de cada tweet retornado na busca feita pelo usuário</p>
+</div>
