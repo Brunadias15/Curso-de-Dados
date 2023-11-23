@@ -1,8 +1,8 @@
-##Sistema de busca em dados do Twitter
+<h1> Sistema de busca em dados do Twitter </h1>
 
 O objetivo como desenvolvedor, é Sistema de busca de tweets por determinado padrão (por data, termo no tweet, ou por assunto). Esse sistema deverá conter os seguintes requisitos:
 
-### Menu Principal
+<h2>Menu Principal</h2> 
 
 Ao iniciar o programa, o seguinte menu deve ser apresentado ao usuário:
 
